@@ -27,4 +27,4 @@ Alteração da equipe A: -3,00
 
 Alteração da equipe B: +3,00
 
-
+A World Rugby multiplica o pontução por 2 quando a partida é uma final de Copa do Mundo. Nesse modelo, qualquer partida do Campeonato Brasileiro Série A tem a portuação multiplicada por 2, porque as datas de final não estavam especificadas na primeira versão do pack de dados (disponível na pasta documents).
