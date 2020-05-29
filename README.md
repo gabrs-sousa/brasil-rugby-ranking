@@ -10,12 +10,21 @@ O arquivo run.py realiza os outros dois scripts. A variável "filename" deve ser
 Por exemplo: se a Poli perder para o SPAC por 30 a 3 no CEPEUSP
 
 Pontuação da equipe A: 03
+
 Pontuação da equipe B: 33
+
 Jogo do Campeonato Brasileiro Série A: Falso
+
 Classificação da equipe A antes do jogo: 90.14
+
 Classificação da equipe B antes do jogo: 81.73
+
 Classificação da equipe A após o jogo: 87.14
+
 Classificação da equipe B após o jogo: 84.73
+
 Alteração da equipe A: -3,00
+
 Alteração da equipe B: +3,00
+
 
