@@ -17,5 +17,5 @@ def run(filename: str, calculate_pre_score: bool, output_file_name: str):
 
 if __name__ == "__main__":
     filename = r'C:\Users\Gabriel\Documents\Graduação\Projeto-PUB-EPUSP\Ranking\documents\Dados.xlsx'
-    run(filename=filename, calculate_pre_score=False, output_file_name='test.xlsx')
+    run(filename=filename, calculate_pre_score=False, output_file_name='Ranking.xlsx')
 
